@@ -5,6 +5,6 @@ Este repositorio contiene los documentos, talleres y parciales de la clase de SA
 
 - Taller 1
 - Taller 2
- -Parcial I
- -Taller 3
- -Taller 4
+- Parcial I
+- Taller 3
+- Taller 4
